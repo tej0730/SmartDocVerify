@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+
+# Virtual environment
+venv/
+.env/
+
+# Django
+*.sqlite3
+media/
+staticfiles/
+*.log
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore uploaded documents
+media/
+documents/
+*.pdf
+*.jpg
+*.jpeg
+*.png
